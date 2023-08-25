@@ -25,5 +25,8 @@ export const SERP_API_KEY = '****';
 $ yarn execute agent
 $ yarn execute chain
 $ yarn execute chatModel
+$ yarn execute llms
+$ yarn execute memory
+$ yarn execute promptTemplate
 # ...
 ```
