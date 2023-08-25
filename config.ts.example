@@ -1,0 +1,2 @@
+export const OPENAI_KEY = 'sk-****';
+export const SERP_API_KEY = '****';
